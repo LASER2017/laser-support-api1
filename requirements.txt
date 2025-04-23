@@ -3,5 +3,5 @@ uvicorn
 openai
 langchain
 langchain-community
-pinecone-client
+pinecone
 python-dotenv
